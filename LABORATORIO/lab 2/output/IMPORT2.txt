@@ -1,0 +1,37 @@
+Autoland
+
+Autos:
+
+Ford Mustang color: negro Cilindraje: 255 Asientos: 4 Ruedas: 4 Puertas: 4 Certificacion: 1
+
+Chevrolet Camaro color: gris Cilindraje: 300 Asientos: 4 Ruedas: 4 Puertas: 4 Certificacion: 2
+
+Honda Civic  color: blanco Cilindraje: 150 Asientos: 4 Ruedas: 4 Puertas: 4 Certificacion: 3
+
+Toyota Corolla color: rojo Cilindraje: 200 Asientos: 4 Ruedas: 4 Puertas: 4 Certificacion: 4
+
+Volkswagen Golf color: negro Cilindraje: 250 Asientos: 4 Ruedas: 4 Puertas: 4 Certificacion: 5
+
+Mercedes-Benz S-Class color: negro Cilindraje: 1 Asientos: 4 Ruedas: 4 Puertas: 4 Certificacion: 1
+
+BMW 3 Series color: blanco Cilindraje: 150 Asientos: 4 Ruedas: 4 Puertas: 4 Certificacion: 1
+
+Porsche 911 color: rojo Cilindraje: 250 Asientos: 4 Ruedas: 4 Puertas: 4 Certificacion: 1
+
+Tesla Model S color: rojo Cilindraje: 200 Asientos: 4 Ruedas: 4 Puertas: 4 Certificacion: 1
+
+Mercedes-Benz color: blanco Cilindraje: 150 Asientos: 4 Ruedas: 4 Puertas: 4 Certificacion: 1
+
+
+Motos:
+
+Ducati Panigale V4 color: azul Cilindraje: 120 Asientos: 1 Ruedas: 2 Puertas: 0 Certificacion: 2
+
+Honda Civic color: blanco Cilindraje: 200 Asientos: 1 Ruedas: 2 Puertas: 0 Certificacion: 3
+
+Honda Gold Wing  color: rojo Cilindraje: 100 Asientos: 1 Ruedas: 2 Puertas: 0 Certificacion: 4
+
+Yamaha YZF-R1 color: azul Cilindraje: 150 Asientos: 1 Ruedas: 2 Puertas: 0 Certificacion: 5
+
+Triumph Bonneville T120 color: verde Cilindraje: 115 Asientos: 1 Ruedas: 2 Puertas: 0 Certificacion: 6
+

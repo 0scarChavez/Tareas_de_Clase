@@ -1,0 +1,44 @@
+	Redes y Soporte
+ ************************************
+Jefe: 
+Nombre y Apellido: Sofia Itusaca DNI : 12848 Fecha de nacimiento : 29 de abril 1990 Edad : 33
+Puesto: Jefe Sueldo: 2000 Antiguedad: 7 anios
+
+
+Soporte: 
+Nombre y Apellido: Jose Quintana DNI : 23425 Fecha de nacimiento : 04 de noviembre 2000 Edad : 23
+Puesto: Soporte Sueldo: 1550 Antiguedad: 4 anios
+
+Nombre y Apellido: Manuel Rojas DNI : 14512 Fecha de nacimiento : 23 de marzo 2003 Edad : 20
+Puesto: Soporte Sueldo: 1550 Antiguedad: 3 anios
+
+Nombre y Apellido: Axel Acharte DNI : 95844 Fecha de nacimiento : 29 de abril 1995 Edad : 28
+Puesto: Soporte Sueldo: 1550 Antiguedad: 5 anios
+
+
+
+Redes: 
+Nombre y Apellido: Karla Makein DNI : 53368 Fecha de nacimiento : 13 de mayo 1990 Edad : 33
+Puesto: Redes Sueldo: 1600 Antiguedad: 5 anios
+
+Nombre y Apellido: Jean Martinez DNI : 65735 Fecha de nacimiento : 15 de febrero 1995 Edad : 28
+Puesto: Redes Sueldo: 1600 Antiguedad: 5 anios
+
+Nombre y Apellido: Angel Rosales DNI : 11424 Fecha de nacimiento : 29 de abril 1994 Edad : 29
+Puesto: Redes Sueldo: 1600 Antiguedad: 7 anios
+
+
+
+Administracion: 
+Nombre y Apellido: Harry Carhua DNI : 86865 Fecha de nacimiento : 27 de setiembre 2000 Edad : 23
+Puesto: Administracion Sueldo: 1500 Antiguedad: 4 anios
+
+Nombre y Apellido: Alexis Perez DNI : 57435 Fecha de nacimiento : 29 de abril 2000 Edad : 23
+Puesto: Administracion Sueldo: 1500 Antiguedad: 3 anios
+
+
+
+Jefe de marketing: 
+Nombre y Apellido: Lucila Gomez DNI : 55674 Fecha de nacimiento : 05 de enero 2000 Edad : 23
+Puesto: Jefe de marketing Sueldo: 1700 Antiguedad: 5 anios
+

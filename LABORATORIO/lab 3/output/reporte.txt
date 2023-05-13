@@ -1,0 +1,8 @@
+La Florarida
+******************
+
+BIBLIOTECARIO: Codigo: 202201 Apellidos: Ramos Nombre: Sergio DNI:2405100 Direccion: Av. Ucayali Telefono: 987527465 Correo: sergio04@gmail.com
+
+Titulo: Don Quijote de la Mancha Autor: Miguel de Cervantes
+
+Codigo: 01 Apellidos: Garcia Nombre: Daniel DNI:8746275 Direccion: Castillo Grande Telefono: 98376545 Correo: danielgracia@gmail.com

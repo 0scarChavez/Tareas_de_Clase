@@ -1,0 +1,20 @@
+Datos de los estudiantes 
+Facultad de Ingenieria en Informatica y Sistemas
+|||||||||||||||||||||||
+Codigo: 2023000001 Nombre: juanito perez DNI: 44444444
+LOS CURSOS SON: 
+Curso: Programacion Basica --> Credito:  4 --> Promedio: 12.333333
+Curso: Diseño de BD --> Credito:  3 --> Promedio: 12.666667
+Curso: Sotfware I --> Credito:  3 --> Promedio: 14.666667
+Curso: Sotfware II --> Credito:  4 --> Promedio: 14.333333
+Curso: Gestion de procesos --> Credito:  4 --> Promedio: 12.000000
+
+Facultad de Zootecnia
+|||||||||||||||||||||||
+Codigo: 2020007 Nombre: manuel lopez DNI: 20458771
+LOS CURSOS SON: 
+Curso: Zoologia --> Credito:  5 --> Promedio: 14.000000
+Curso: Supervivencia --> Credito:  4 --> Promedio: 11.666667
+Curso: Ecosistema --> Credito:  4 --> Promedio: 14.333333
+Curso: Fisiologia Animal --> Credito:  6 --> Promedio: 11.000000
+Curso: Botanica General --> Credito:  5 --> Promedio: 13.000000

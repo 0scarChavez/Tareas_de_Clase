@@ -1,0 +1,11 @@
+Datos de los estudiantes 
+Facultad de Ingenieria en Informatica y Sistemas
+Codigo: 2023000001 Nombre: juanito perez DNI: 44444444
+Codigo: 20220456 Nombre: caldas  jose DNI: 234567
+Codigo: 20223457 Nombre: solar  carlos DNI: 345678
+Codigo: 20223412 Nombre: palacios marco DNI: 3457177
+Facultad de Zootecnia
+Codigo: 2020007 Nombre: manuel lopez DNI: 20458771
+Codigo: 2000485 Nombre: therry exaltacion DNI: 2024575
+Codigo: 20220050 Nombre: krystal exaltacion DNI: 87541558
+Codigo: 2022002 Nombre: jose mantinez DNI: 73463283
